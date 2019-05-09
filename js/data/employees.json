@@ -1,0 +1,58 @@
+{
+    "employees": [
+        {
+            "name": "Aimee",
+            "status": "in"
+    },
+        {
+            "name": "Andrew",
+            "status": "in"
+    },
+        {
+            "name": "Ben",
+            "status": "in"
+    },
+        {
+            "name": "Elizabeth",
+            "status": "in"
+    },
+        {
+            "name": "Guil",
+            "status": "in"
+    },
+        {
+            "name": "Hampton",
+            "status": "in"
+    },
+        {
+            "name": "Jason",
+            "status": "out"
+    },
+        {
+            "name": "Lainie",
+            "status": "in"
+    }
+        ,
+        {
+            "name": "Kenneth",
+            "status": "in"
+    }
+        ,
+        {
+            "name": "Pasan",
+            "status": "in"
+    }
+        ,
+        {
+            "name": "Shawna",
+            "status": "in"
+    }
+        ,
+        {
+            "name": "Zac",
+            "status": "in"
+    }
+        
+        
+]
+}

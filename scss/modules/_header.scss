@@ -1,0 +1,61 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    margin-top: 100px;
+
+
+
+
+
+
+    .employeeList {
+        //font-family: 'Cairo', sans-serif;
+        //font-size: 16px;
+        list-style: none;
+
+        .employ {
+          
+                font-size: 16px;
+                display: -webkit-flex;
+                display: -moz-flex;
+                display: -ms-flex;
+                display: -o-flex;
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+
+                button {
+                    width: 30px;
+                    height: 12px;
+                    outline: none;
+                    border: none;
+                    border-radius: 3px;
+                    font-size: 10px;
+                    text-transform: uppercase;
+                    line-height: 12px;
+                    margin-right: 20px;
+                    color: #fff;
+                }
+
+                .name {
+                    margin: 0;
+                    padding: 0;
+                }
+            
+        }
+
+        #in {
+            button {
+                background: #5fcf80;
+            }
+        }
+
+        #out {
+            button {
+                background: #ed5a5a;
+            }
+        }
+    }
+}
